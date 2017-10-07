@@ -1,0 +1,6 @@
+framework module ACDataSyncing {
+  umbrella header "ACDataSyncing-umbrella.h"
+
+  export *
+  module * { export * }
+}
